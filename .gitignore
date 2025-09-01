@@ -1,0 +1,42 @@
+# ==========================
+# Java + Maven + Selenium + TestNG Project
+# ==========================
+
+# Eclipse / IntelliJ project files
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+
+# Maven target directory
+target/
+
+# Build outputs
+bin/
+out/
+
+# TestNG reports
+test-output/
+
+# ExtentReports outputs
+reports/
+ExtentReports/
+*.html
+
+# Screenshots
+screenshots/
+*.png
+*.jpg
+
+# Logs
+*.log
+
+# OS generated files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Temporary files
+*.tmp
+*.swp
